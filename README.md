@@ -16,8 +16,7 @@ It showcases my skills, projects, and contact information in a clean and respons
 Technologies Used
 - HTML  
 - CSS  
-- JavaScript
--
+  
 Objective
 The main objective of this project is to build a personal portfolio website to demonstrate frontend development skills and improve UI/UX understanding.
 
@@ -31,5 +30,7 @@ Internship Details
 - Task: Task 2 - Portfolio Webpage
 - 
  Author
+
   Arfath P
-#OasisInfobyte #WebDevelopment #FrontendDevelopment #HTML #CSS #JavaScript #Portfolio
+  
+#OasisInfobyte #WebDevelopment #FrontendDevelopment #HTML #CSS #Portfolio
